@@ -1,0 +1,20 @@
+Kami sedang mencari seorang Cloud Engineer yang berpengalaman untuk menangani dan mengoptimalkan infrastruktur cloud berbasis AWS. Kandidat akan mendukung pengembangan aplikasi low-code, serta berkontribusi pada peningkatan pengalaman pengguna dalam pengembangan produk.
+
+Tanggung jawab utama meliputi:
+- Mengelola dan mengoptimalkan infrastruktur AWS (EC2, ECS, Lambda, VPC, S3, RDS, IAM, dsb.)
+- Mendesain sistem arsitektur cloud yang scalable dan sesuai dengan AWS Well-Architected Framework
+- Melakukan uji performa, analisis bottleneck, dan peningkatan efisiensi sistem
+- Memiliki kemampuan pemrograman (Python, Java, atau Node.js)
+- Menggunakan tools monitoring seperti JMeter, CloudWatch, New Relic, atau Datadog
+- Memastikan kesiapan infrastruktur terhadap audit dan standar keamanan
+- Mendukung integrasi dan deployment aplikasi low-code
+- Menganalisis perilaku pengguna menggunakan Google Analytics atau Microsoft Clarity
+- Menentukan kebijakan backup, retensi data, dan disaster recovery
+- Menyusun dokumentasi teknis dan kebijakan operasional yang sesuai untuk keperluan audit
+
+Kualifikasi:
+- Lulusan S1 Ilmu Komputer atau bidang terkait
+- Memiliki pengalaman minimal 2 tahun di bidang cloud computing
+- Pengalaman dengan database relasional dan NoSQL
+- Pengalaman dengan AWS sangat diutamakan
+- Detail-oriented dan mampu bekerja dalam lingkungan yang dinamis

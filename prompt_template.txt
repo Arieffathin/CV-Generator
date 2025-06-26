@@ -1,0 +1,22 @@
+Buatkan resume profesional dalam Bahasa Indonesia berdasarkan deskripsi pekerjaan berikut:
+
+{JOB_DESCRIPTION}
+
+Berikut adalah informasi pribadi kandidat:
+
+- Nama Lengkap: Arief Fathin Abrar
+- Alamat Domisili: Sigli
+- Nomor Kontak: 085362509856
+- Email Aktif: arieffathinabrar05@gmail.com
+- Pendidikan Terakhir: Universitas Islam Negeri Ar-Raniry, S1 Teknik Komputasi
+- Pengalaman Kerja: Machine Learning Engineer di Bank DBS (Jan 2022 – Sekarang)
+- Keterampilan Teknis: AWS, Python, Flask, Docker, Cloud Monitoring, Git
+- Sertifikasi: Machine Learning Applied Certified
+
+**Instruksi penting**:
+- Jangan menambahkan bagian seperti "referensi", "hobi", atau "profil pribadi".
+- Jangan menyisipkan narasi editorial, kalimat pembuka, atau permintaan resume terbaik.
+- Fokuslah menghasilkan resume realistis dan profesional, tanpa pengulangan.
+- Formatkan resume sebagai teks biasa, dengan poin-poin rapi dan tidak dalam bentuk tabel Markdown.
+
+Outputkan **hanya isi resume**, tidak perlu menyebutkan bahwa ini hasil dari sistem atau AI.
