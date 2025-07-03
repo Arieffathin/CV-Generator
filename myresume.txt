@@ -1,0 +1,18 @@
+Name: Budi Santoso
+Email: budi.santoso@email.tech
+Phone: +62 812 1234 5678
+Location: Bandung, Indonesia
+Education: Sarjana Teknik Informatika, Institut Teknologi Bandung (ITB)
+
+Experience:
+- Cloud Engineer - SolusiTek Prima (2022 - Present): Managed and scaled AWS infrastructure for various client projects. Automated server provisioning using Terraform scripts, reducing manual setup time by over 50%. Deployed containerized applications using Docker and managed clusters on Kubernetes. Built CI/CD pipelines for automated testing and deployment.
+- DevOps Engineer - Startup Maju (2020 - 2022): Responsible for server administration and writing automation scripts using Bash and Python. Managed application deployments and monitored system health. Gained foundational experience with cloud services and containerization.
+
+Skills:
+Cloud Platforms: AWS (EC2, S3, RDS, VPC, IAM, EKS), Google Cloud Platform (GCP)
+Infrastructure as Code: Terraform, Ansible
+Containerization: Docker, Kubernetes
+CI/CD: Jenkins, GitLab CI
+Scripting: Python, Bash
+Monitoring: Prometheus, Grafana
+Operating Systems: Linux (Ubuntu, CentOS)
